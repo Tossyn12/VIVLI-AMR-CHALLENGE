@@ -1,0 +1,141 @@
+Isolate,Year,Organism,Family,Region,Country,Age,Gender,BodySite,Facility,LVX_MIC
+129,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,64,F,Respiratory: Endotracheal aspirate,Medicine General,Resistant
+769,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Italy,39,F,Respiratory: Bronchoalveolar lavage,Emergency Room,Resistant
+809,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Latin America,Dominican Republic,80,M,Respiratory: Endotracheal aspirate,Medicine ICU,Resistant
+1197,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,26,M,Respiratory: Sputum,Medicine ICU,Resistant
+1201,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,86,F,Respiratory: Endotracheal aspirate,Medicine General,Resistant
+1670,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,29,F,Respiratory: Bronchoalveolar lavage,Surgery ICU,Resistant
+1673,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,78,M,Respiratory: Other,Emergency Room,Resistant
+2389,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Middle East,Israel,78,F,Respiratory: Bronchoalveolar lavage,Pediatric ICU,Resistant
+2611,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Asia,India,67,M,GU: Urine,Medicine General,Resistant
+4945,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,88,F,Bodily Fluids: Thoracentesis,Other,Resistant
+51,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Latin America,Mexico,70,F,Respiratory: Other,Surgery General,Susceptible
+52,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Latin America,Mexico,26,M,Bodily Fluids: Peritoneal,Surgery General,Susceptible
+53,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Latin America,Mexico,41,F,Respiratory: Bronchoalveolar lavage,Surgery General,Susceptible
+54,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Latin America,Mexico,2,F,Respiratory: Bronchoalveolar lavage,Pediatric ICU,Susceptible
+55,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Latin America,Mexico,0,F,GI: Stomach,Pediatric ICU,Susceptible
+128,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,65,M,Respiratory: Endotracheal aspirate,Surgery ICU,Susceptible
+130,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,75,M,Respiratory: Endotracheal aspirate,Surgery ICU,Susceptible
+131,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,58,F,Respiratory: Bronchoalveolar lavage,Surgery ICU,Susceptible
+132,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,75,M,Respiratory: Sputum,Surgery ICU,Susceptible
+133,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,63,F,Respiratory: Endotracheal aspirate,Medicine ICU,Susceptible
+206,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Latin America,Colombia,66,F,GU: Urine,Emergency Room,Susceptible
+207,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Latin America,Colombia,65,F,Respiratory: Endotracheal aspirate,Medicine ICU,Susceptible
+208,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Latin America,Colombia,74,M,Respiratory: Sputum,Medicine General,Susceptible
+764,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Italy,61,M,GI: Abscess,Medicine General,Susceptible
+765,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Italy,41,M,Bodily Fluids: Thoracentesis,Surgery General,Susceptible
+766,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Italy,75,F,Bodily Fluids: Peritoneal,Medicine ICU,Susceptible
+767,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Italy,63,F,Respiratory: Sputum,Medicine General,Susceptible
+768,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Italy,-1,F,Respiratory: Bronchial brushing,Surgery ICU,Susceptible
+770,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Italy,51,F,Bodily Fluids: Thoracentesis,Surgery General,Susceptible
+771,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Italy,61,M,GU: Urine,Medicine General,Susceptible
+863,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Latin America,Mexico,43,M,GU: Urine,Medicine General,Susceptible
+984,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,South Pacific,Australia,60,M,Respiratory: Endotracheal aspirate,Medicine General,Susceptible
+985,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,South Pacific,Australia,34,M,GI: Abscess,Emergency Room,Susceptible
+986,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,South Pacific,Australia,52,M,Respiratory: Sputum,Medicine General,Susceptible
+1004,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Germany,70,F,Respiratory: Other,Surgery ICU,Susceptible
+1005,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Germany,88,F,Respiratory: Other,Medicine General,Susceptible
+1006,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Germany,77,M,Respiratory: Bronchial brushing,Medicine ICU,Susceptible
+1007,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Germany,31,M,Respiratory: Sputum,Medicine General,Susceptible
+1041,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,South Pacific,Australia,27,M,Respiratory: Sputum,None Given,Susceptible
+1092,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Latin America,Venezuela,39,F,GI: Abscess,Medicine General,Susceptible
+1093,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Latin America,Venezuela,51,F,Respiratory: Bronchial brushing,Medicine General,Susceptible
+1094,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Latin America,Venezuela,90,F,GI: Abscess,Medicine General,Susceptible
+1095,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Latin America,Venezuela,85,M,Bodily Fluids: Thoracentesis,Medicine General,Susceptible
+1195,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,17,F,GU: Urine,Medicine General,Susceptible
+1196,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,58,M,Bodily Fluids: Peritoneal,Medicine General,Susceptible
+1198,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,68,M,Respiratory: Bronchoalveolar lavage,Medicine General,Susceptible
+1199,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,36,F,Respiratory: Endotracheal aspirate,Medicine General,Susceptible
+1200,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,58,F,Respiratory: Endotracheal aspirate,Surgery ICU,Susceptible
+1202,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,66,M,Respiratory: Endotracheal aspirate,Medicine General,Susceptible
+1347,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Asia,"Korea, South",75,F,Respiratory: Bronchial brushing,Medicine ICU,Susceptible
+1396,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,39,M,GI: Abscess,Surgery General,Susceptible
+1397,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,66,M,Respiratory: Sputum,Medicine General,Susceptible
+1398,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,14,M,Respiratory: Sputum,Pediatric General,Susceptible
+1594,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,64,M,Respiratory: Endotracheal aspirate,Medicine ICU,Susceptible
+1631,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,21,M,Respiratory: Endotracheal aspirate,Surgery ICU,Susceptible
+1635,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,18,M,Respiratory: Endotracheal aspirate,Medicine ICU,Susceptible
+1671,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,46,M,Respiratory: Sputum,Medicine General,Susceptible
+1672,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,50,M,Respiratory: Sputum,Medicine General,Susceptible
+1902,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Croatia,74,M,Respiratory: Sputum,Medicine General,Susceptible
+2301,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,68,M,Bodily Fluids: Peritoneal,Surgery ICU,Susceptible
+2302,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,58,M,Respiratory: Endotracheal aspirate,Surgery ICU,Susceptible
+2303,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,69,F,Respiratory: Endotracheal aspirate,Surgery ICU,Susceptible
+2304,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,47,M,Respiratory: Sputum,Medicine ICU,Susceptible
+2305,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,17,M,Respiratory: Sputum,Medicine General,Susceptible
+2306,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,73,M,Respiratory: Bronchoalveolar lavage,Medicine General,Susceptible
+2307,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,2,M,GI: Gall Bladder,Surgery General,Susceptible
+2378,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Middle East,Israel,20,M,Respiratory: Sputum,Medicine ICU,Susceptible
+2379,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Middle East,Israel,45,M,Respiratory: Sputum,Surgery ICU,Susceptible
+2382,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Middle East,Israel,65,M,Respiratory: Sputum,Medicine General,Susceptible
+2388,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Middle East,Israel,71,F,Respiratory: Sputum,Surgery ICU,Susceptible
+2740,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,81,F,Respiratory: Sputum,Medicine General,Susceptible
+2741,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,55,M,Respiratory: Sputum,Surgery General,Susceptible
+2742,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,59,M,Respiratory: Endotracheal aspirate,Medicine General,Susceptible
+2743,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,28,F,Respiratory: Endotracheal aspirate,Medicine General,Susceptible
+2744,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,51,M,Respiratory: Sputum,Surgery General,Susceptible
+2745,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,45,F,Respiratory: Endotracheal aspirate,Medicine ICU,Susceptible
+2746,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,66,F,Respiratory: Endotracheal aspirate,Medicine General,Susceptible
+2882,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,10,F,Respiratory: Sputum,Surgery General,Susceptible
+2886,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,86,F,GU: Urine,Medicine General,Susceptible
+2888,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,42,M,Respiratory: Endotracheal aspirate,General Unspecified ICU,Susceptible
+2898,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,Canada,27,F,Respiratory: Bronchoalveolar lavage,Medicine ICU,Susceptible
+3105,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Portugal,73,M,Respiratory: Sputum,Medicine General,Susceptible
+3106,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Portugal,78,M,Respiratory: Sputum,Medicine General,Susceptible
+3107,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Portugal,77,M,Respiratory: Sputum,Medicine General,Susceptible
+3108,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Portugal,92,F,Respiratory: Sputum,Medicine General,Susceptible
+3109,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Portugal,79,M,Respiratory: Sputum,Medicine General,Susceptible
+3110,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Portugal,43,F,Respiratory: Endotracheal aspirate,Medicine ICU,Susceptible
+3111,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Portugal,86,F,Respiratory: Sputum,Medicine General,Susceptible
+3113,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,3,F,GI: Abscess,None Given,Susceptible
+3114,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,23,M,GI: Abscess,None Given,Susceptible
+3287,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Switzerland,18,M,Respiratory: Endotracheal aspirate,Surgery ICU,Susceptible
+3288,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Switzerland,62,F,Respiratory: Bronchoalveolar lavage,Medicine General,Susceptible
+3289,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Switzerland,48,M,Respiratory: Endotracheal aspirate,Medicine ICU,Susceptible
+3290,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Switzerland,34,F,Respiratory: Endotracheal aspirate,Medicine ICU,Susceptible
+3291,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Switzerland,1,M,Respiratory: Endotracheal aspirate,Pediatric ICU,Susceptible
+3292,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Switzerland,77,M,Respiratory: Endotracheal aspirate,Medicine ICU,Susceptible
+3293,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Switzerland,86,M,Respiratory: Endotracheal aspirate,Surgery ICU,Susceptible
+3448,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,France,70,M,Bodily Fluids: Peritoneal,Surgery ICU,Susceptible
+3449,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,France,11,M,Respiratory: Endotracheal aspirate,Medicine General,Susceptible
+3450,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,France,76,F,Respiratory: Endotracheal aspirate,Surgery ICU,Susceptible
+3451,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,France,68,M,Respiratory: Endotracheal aspirate,Surgery ICU,Susceptible
+3452,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,France,69,M,Respiratory: Bronchoalveolar lavage,Surgery ICU,Susceptible
+3453,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,France,42,M,Respiratory: Bronchoalveolar lavage,Surgery ICU,Susceptible
+3454,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,France,62,M,Respiratory: Bronchoalveolar lavage,Medicine ICU,Susceptible
+3455,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,France,19,M,Respiratory: Bronchoalveolar lavage,Surgery ICU,Susceptible
+3456,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,France,64,M,Respiratory: Bronchoalveolar lavage,Medicine ICU,Susceptible
+3519,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Latin America,Mexico,70,M,Bodily Fluids: Thoracentesis,Medicine General,Susceptible
+3586,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Ireland,72,M,Respiratory: Sputum,Medicine General,Susceptible
+3587,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Ireland,10,M,Respiratory: Sputum,Pediatric General,Susceptible
+3588,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Ireland,55,F,Respiratory: Other,Medicine General,Susceptible
+3589,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Ireland,1,M,Respiratory: Other,Pediatric General,Susceptible
+3590,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Ireland,53,F,Respiratory: Other,Medicine General,Susceptible
+3591,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Ireland,11,F,Respiratory: Sputum,Pediatric General,Susceptible
+3592,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Ireland,8,F,Respiratory: Sputum,Pediatric General,Susceptible
+3593,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Ireland,74,F,Bodily Fluids: Peritoneal,Medicine General,Susceptible
+3594,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Ireland,74,F,Bodily Fluids: Peritoneal,Medicine General,Susceptible
+3595,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,Ireland,56,F,Respiratory: Sputum,Medicine General,Susceptible
+3668,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Latin America,Guatemala,16,M,Respiratory: Endotracheal aspirate,Medicine ICU,Susceptible
+3878,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Asia,Japan,48,F,Respiratory: Sputum,Emergency Room,Susceptible
+3879,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Asia,Japan,81,F,Respiratory: Sputum,Medicine General,Susceptible
+3880,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Asia,Japan,64,F,Respiratory: Sputum,Surgery General,Susceptible
+3886,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Asia,Japan,1,F,Respiratory: Sputum,Pediatric General,Susceptible
+3888,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Asia,Japan,1,F,Respiratory: Sputum,Pediatric General,Susceptible
+3890,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Asia,Japan,1,M,Respiratory: Sputum,Pediatric ICU,Susceptible
+3896,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Asia,Japan,78,F,Respiratory: Sputum,Emergency Room,Susceptible
+4028,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,30,M,Respiratory: Bronchoalveolar lavage,Surgery General,Susceptible
+4029,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,49,F,Respiratory: Bronchoalveolar lavage,Medicine General,Susceptible
+4030,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,62,M,Respiratory: Sputum,Medicine General,Susceptible
+4031,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,64,M,Respiratory: Bronchoalveolar lavage,Medicine General,Susceptible
+4032,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,58,M,Respiratory: Sputum,Medicine General,Susceptible
+4404,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,United Kingdom,85,M,Respiratory: Bronchoalveolar lavage,Medicine General,Susceptible
+4405,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,United Kingdom,44,F,Respiratory: Sputum,Medicine General,Susceptible
+4406,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,United Kingdom,66,F,Respiratory: Bronchoalveolar lavage,Other,Susceptible
+4407,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,Europe,United Kingdom,45,M,GI: Abscess,Other,Susceptible
+4810,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,70,F,GI: Abscess,Other,Susceptible
+4944,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,51,M,Respiratory: Endotracheal aspirate,General Unspecified ICU,Susceptible
+4946,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,38,F,Respiratory: Sputum,Other,Susceptible
+4947,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,72,F,Respiratory: Sputum,Medicine General,Susceptible
+4948,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,57,F,Respiratory: Other,Medicine General,Susceptible
+4949,2018,"Staphylococcus aureus, MSSA",Staphylococcus spp,North America,United States,87,F,Respiratory: Sputum,Other,Susceptible
